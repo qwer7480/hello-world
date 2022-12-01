@@ -20,5 +20,5 @@ char* StrCpy(char* src)
 	return *p2;
 }
 /**
-远程edit
+远程编辑
 **/
